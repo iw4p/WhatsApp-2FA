@@ -1,0 +1,9 @@
+Package: com.nima.whatsapp2fa
+Name: WhatsApp2FA
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Nima Akbarzade
+Author: Nima Akbarzade
+Section: Tweaks
